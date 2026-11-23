@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    cout << "Hello, Git" << endl;
+    cout << "Hello, fitur-b" << endl;
     cout << "Coba 4" << endl;
     return 0;
 }
