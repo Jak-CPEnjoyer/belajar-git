@@ -3,6 +3,6 @@ using namespace std;
 
 int main() {
     cout << "Hello, fitur baru" << endl;
-    cout << "Coba 4" << endl;
+    cout << "Saya sudah belajar Github" << endl;
     return 0;
 }
